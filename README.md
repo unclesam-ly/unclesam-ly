@@ -78,15 +78,20 @@ func main() {
 
 ### 📊 GitHub Stats (数据统计)
 
+<!-- 📊 GitHub Stats (数据统计) -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unclesam-ly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unclesam-ly&layout=compact&theme=tokyonight&hide=html,css" />
+  <!-- GitHub 统计主卡片 -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=unclesam-ly&show_icons=true&theme=tokyonight&hide_border=true" alt="Unclesam's GitHub Stats" />
+  
+  <!-- 常用语言占比 -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unclesam-ly&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unclesam-ly&theme=tokyonight" alt="Unclesam Streak" />
+  <!-- 连续 Commit 统计（这个节点非常稳定） -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unclesam-ly&theme=tokyonight&hide_border=true" alt="Unclesam Streak" />
 </div>
 
 ---
