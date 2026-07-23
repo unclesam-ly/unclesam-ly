@@ -79,13 +79,11 @@ func main() {
 ### 📊 GitHub Stats (数据统计)
 
 <!-- 📊 GitHub Stats (数据统计) -->
-<div align="center">
-  <!-- GitHub 统计主卡片 -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=unclesam-ly&show_icons=true&theme=tokyonight&hide_border=true" alt="Unclesam's GitHub Stats" />
-  
-  <!-- 常用语言占比 -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unclesam-ly&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-</div>
+<!-- GitHub 主统计卡（换镜像节点） -->
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=unclesam-ly&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!-- 语言统计卡（换镜像节点） -->
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=unclesam-ly&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 
 <br/>
 
