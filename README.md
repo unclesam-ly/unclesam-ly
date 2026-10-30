@@ -84,7 +84,7 @@ var me = Developer{
 ## 📫 一起聊聊
 
 欢迎就这些话题联系我：Go 后端架构、性能调优、WebTransport / 网络隧道、GEO 优化。
-邮箱：[tapecode@gmail.com](mailto:tapecode@gmail.com)　博客：[unclesamblog.top](https://www.unclesamblog.top/)
+邮箱：[tapecode@gmail.com](mailto:tapecode55@gmail.com)　博客：[unclesamblog.top](https://www.unclesamblog.top/)
 
 ---
 
